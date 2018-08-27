@@ -1,6 +1,7 @@
 export const DISPLAY_FORMAT = 'L';
 export const ISO_FORMAT = 'YYYY-MM-DD';
 export const ISO_MONTH_FORMAT = 'YYYY-MM';
+export const ISO_YEAR_FORMAT = 'YYYY';
 
 export const START_DATE = 'startDate';
 export const END_DATE = 'endDate';
@@ -24,6 +25,8 @@ export const OPEN_DOWN = 'down';
 export const OPEN_UP = 'up';
 
 export const DAY_SIZE = 39;
+export const MONTH_WIDTH_SIZE = 90;
+export const MONTH_HEIGHT_SIZE = 39;
 export const BLOCKED_MODIFIER = 'blocked';
 export const WEEKDAYS = [0, 1, 2, 3, 4, 5, 6];
 
